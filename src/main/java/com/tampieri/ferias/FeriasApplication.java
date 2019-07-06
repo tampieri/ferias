@@ -25,10 +25,10 @@ public class FeriasApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		
-		Equipe equ1 = new Equipe(null, "Desenvolvimento");
+		/*Equipe equ1 = new Equipe(null, "Desenvolvimento");
 		Equipe equ2 = new Equipe(null, "Tester");
 		
-		equipeRepository.saveAll(Arrays.asList(equ1, equ2));
+		equipeRepository.saveAll(Arrays.asList(equ1, equ2));*/
 		
 		
 	}
